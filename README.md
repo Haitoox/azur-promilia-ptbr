@@ -1,18 +1,20 @@
-# # Tradução PT-BR — Azur Promilia (Client 1.0.2)
+# Tradução PT-BR (ALPHA) — Azur Promilia (Client 1.0.2)
 
-Patch de tradução não-oficial para Português (Brasil) do jogo **Azur Promilia**.
+> ⚠️ **AVISO — VERSÃO ALPHA:** Esta tradução ainda está em fase inicial de testes. Ela pode conter erros de português, textos sem tradução, cortes na interface ou pequenos bugs visuais. Atualizações com correções serão lançadas aos poucos!
+
+Patch de tradução não-oficial feito por fãs para Português (Brasil) do jogo **Azur Promilia**.
 
 ## 📥 Como Baixar e Instalar
-1. Vá até a aba **[Releases](../../releases)** aqui no lado direito da página.
-2. Baixe o arquivo `traducao-azur-promilia-ptbr.rar` (ou `.zip`).
+1. Vá até a aba **[Releases](../../releases)** aqui no lado direito da página (ou role até o final desta página, se já estiver nela).
+2. Baixe o arquivo `.zip` da tradução.
 3. Extraia o conteúdo em uma pasta no seu computador.
 4. Execute o arquivo `AzurPromilia-Instalador-PTBR.exe` e siga as instruções na tela.
 
 ## 🙏 Créditos e Agradecimentos
-Este projeto é uma adaptação baseada na ferramenta e tradução em inglês criada originalmente pela comunidade. Todos os créditos técnicos pelo instalador e estrutura base pertencem ao autor original:
+Este projeto foi construído usando como base o instalador e os arquivos da tradução em inglês feita pela comunidade. Todos os créditos pela ferramenta original pertencem ao seu criador:
 
-* **Autor/Projeto Original (EN):** [https://discord.com/invite/luk-gg]
+* **Criador / Projeto Original (EN):** [https://discord.com/invite/luk-gg]
 * **Tradução e Adaptação (PT-BR):** [https://discord.com/invite/azur-promilia-1220810810096615486]
 
 ---
-*Aviso: Este é um projeto feito de fãs para fãs, sem fins lucrativos e sem afiliação oficial com os desenvolvedores do jogo.*
+*Aviso: Projeto sem fins lucrativos feito de fãs para fãs, sem vínculo oficial com os desenvolvedores de Azur Promilia.*
