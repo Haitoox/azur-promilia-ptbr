@@ -18,3 +18,4 @@ Este projeto foi construído usando como base o instalador e os arquivos da trad
 
 ---
 *Aviso: Projeto sem fins lucrativos feito de fãs para fãs, sem vínculo oficial com os desenvolvedores de Azur Promilia.*
+<img width="1899" height="1048" alt="{E80A8571-1B40-48CF-8599-0DAE2AD40A37}" src="https://github.com/user-attachments/assets/017dd4b8-2677-423b-b75b-5eb174a05842" />
