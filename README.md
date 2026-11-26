@@ -19,3 +19,6 @@ Este projeto foi construído usando como base o instalador e os arquivos da trad
 ---
 *Aviso: Projeto sem fins lucrativos feito de fãs para fãs, sem vínculo oficial com os desenvolvedores de Azur Promilia.*
 <img width="1899" height="1048" alt="{E80A8571-1B40-48CF-8599-0DAE2AD40A37}" src="https://github.com/user-attachments/assets/017dd4b8-2677-423b-b75b-5eb174a05842" />
+<img width="1888" height="1054" alt="{63EA2440-B5EE-4C21-910C-26484C52D152}" src="https://github.com/user-attachments/assets/ab22b486-9499-47ac-a343-4f2489d3662f" />
+<img width="1895" height="1016" alt="{F6827F93-A92F-4793-82C8-3F6208F766A3}" src="https://github.com/user-attachments/assets/9d25559c-3951-4a81-b3f0-c889bf3cf13a" />
+<img width="1893" height="1037" alt="{1D97CF61-E695-44A9-A97A-72EB453097D8}" src="https://github.com/user-attachments/assets/9fafef11-2013-4ef8-8508-eba3fd618885" />
