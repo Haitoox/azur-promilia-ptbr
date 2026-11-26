@@ -11,8 +11,8 @@ Patch de tradução não-oficial para Português (Brasil) do jogo **Azur Promili
 ## 🙏 Créditos e Agradecimentos
 Este projeto é uma adaptação baseada na ferramenta e tradução em inglês criada originalmente pela comunidade. Todos os créditos técnicos pelo instalador e estrutura base pertencem ao autor original:
 
-* **Autor/Projeto Original (EN):** [Coloque aqui o Nome ou Link do criador original]
-* **Tradução e Adaptação (PT-BR):** [Coloque aqui o seu Nome ou perfil do GitHub]
+* **Autor/Projeto Original (EN):** [https://discord.com/invite/luk-gg]
+* **Tradução e Adaptação (PT-BR):** [https://discord.com/invite/azur-promilia-1220810810096615486]
 
 ---
 *Aviso: Este é um projeto feito de fãs para fãs, sem fins lucrativos e sem afiliação oficial com os desenvolvedores do jogo.*
